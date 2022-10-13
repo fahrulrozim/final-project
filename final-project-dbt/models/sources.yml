@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: final_project
+    schema: final_project
+    tables:
+      - name: fraud_dataset_final
+        identifier: fraud_dataset_final
