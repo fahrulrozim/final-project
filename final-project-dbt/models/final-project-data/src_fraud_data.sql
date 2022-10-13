@@ -23,6 +23,8 @@ select
     difreceiver,
     isFraud,
     isFlaggedFraud,
-    datetime
+    datetime,
+    date,
+    time
 from fraud_dataset_src
-order by datetime ASC;
+order by datetime ASC
