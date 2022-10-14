@@ -1,4 +1,4 @@
-# final-project
+# Airflow DAG Pipeline
 
 This is a repository for final project of Data Fellowship 7: Data Engineer Fast Track as a part of running `Airflow DAG Pipeline`. The theme for this project is `Online Payment Fraud Detection`. You can access the [Slides](https://docs.google.com/presentation/d/1t77RXxFUMCF_7SOF5wIrsDxPeDwM-9DmXQvkvBKwowU/edit?usp=sharing) from here. Flowchart and steps to produce is described there (please feel free to look if you want to know the process).
 
