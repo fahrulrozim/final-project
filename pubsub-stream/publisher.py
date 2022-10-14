@@ -28,11 +28,5 @@ def send_record():
         print(f'published message id {future.result()}')
         sleep(1)
 
-# data = 'lmaolmaolmao'
-# data = data.encode('utf-8')
-
-# future = publisher.publish(topic_path, data)
-# print(f'published message id {future.result()}')
-
 if __name__ == "__main__":
     send_record()
